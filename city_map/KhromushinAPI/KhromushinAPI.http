@@ -1,0 +1,6 @@
+@KhromushinAPI_HostAddress = http://localhost:5177
+
+GET {{KhromushinAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
